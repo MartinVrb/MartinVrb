@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
  
-- 📫 Ho to reach me **martin.varbanov704@gmail.com**
+- 📫 H to reach me **martin.varbanov704@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
