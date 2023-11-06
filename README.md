@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinvrb&label=Profile%20views&color=0e75b6&style=flat" alt="martinvrb" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m learning now **JavaScript**
  
 - 📫 How to reach me **martin.varbanov704@gmail.com**
 
