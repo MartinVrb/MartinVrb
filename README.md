@@ -8,6 +8,7 @@
 
 
 - 🌱 I’m currently learning **JavaScript**
+- I also know the basic concepts of Python, which I will improve in the future.
  
 - 📫 How to reach me **martin.varbanov704@gmail.com**
 
