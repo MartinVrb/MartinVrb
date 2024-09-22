@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinvrb&label=Profile%20views&color=0e75b6&style=flat" alt="martinvrb" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript**
-- I also know the basic concepts of Python, which I will improve in the future.
+- 🌱 I’m currently learning **Python**
+- I have knowledge in JS too, because i like to constantly learn something new and improve myself.
  
 - 📫 How to reach me **martin.varbanov704@gmail.com**
 
