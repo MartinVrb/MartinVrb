@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Martin Varbanov</h1>
 <h3 align="center">A student from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinvrb&label=Profile%20views&color=0e75b6&style=flat" alt="martinvrb" /> </p>
 
 - 🌱 I’m currently learning **Python**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinvrb&label=Profile%20views&color=0e75b6&style=flat" alt="martinvrb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinvrb" alt="martinvrb" /></a> </p>
 
