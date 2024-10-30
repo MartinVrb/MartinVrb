@@ -9,7 +9,7 @@
 - ⚡ Fact about me: I love to improve myself daily and keep chasing my goals :)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinvrb" alt="martinvrb" /></a> </p>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
