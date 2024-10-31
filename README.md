@@ -22,10 +22,12 @@
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
 
-<a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=martinvrb&column=8&theme=juicyfresh" alt="GitHub Trophies" /></a>
+<a href="#"><img src="https://github-profile-trophy.vercel.app/?username=martinvrb&column=8&theme=juicyfresh" alt="GitHub Trophies" /></a>
 
 <h2 align="center">⚡ GitHub Stats:</h2>
 
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinvrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="martinvrb" />
+<div align="left">
+<span> <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinvrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="martinvrb" /> </span>
+</div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinVrb&theme=dark&hide_border=false" alt="martinvrb" />
+<span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinVrb&theme=dark&hide_border=false" alt="martinvrb" /> </span>
