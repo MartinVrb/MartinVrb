@@ -26,10 +26,7 @@
 
 <h2 align="center">⚡ GitHub Stats:</h2>
 
-<div align="left">
-<span> <img align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinvrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="martinvrb" /> </span>
-</div>
-
-<div align="center">
-<span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinVrb&theme=dark&hide_border=false" alt="martinvrb" /> </span>
+<div style="display: flex; justify-content: space-between;">
+    <img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinvrb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="martinvrb" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinvrb&theme=dark&hide_border=false" alt="martinvrb" />
 </div>
