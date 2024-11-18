@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinvrb&label=Profile%20views&color=0e75b6&style=flat" alt="martinvrb" /> </p>
 
 - 🚀 I’m currently learning **Python**
-- 👨‍💻 I’m currently working on **Python Projects**
+- 👨‍💻 I’m currently working on **Mini Python Projects** and **Python Advanced Track**
 - 🤹 Fact about me: I love to improve myself daily and keep chasing my goals :)
 
 
